@@ -9,7 +9,7 @@
   <meta property='og:description' content='Y.HARUUCHIのポートフォリオサイトです。'>
   <meta property="og:image" content="img/ogp.png">
   <meta name="description" content="Y.HARUUCHIのポートフォリオサイトです" />
-  <title>YUSUKE HARUUCHI ポートフォリオ</title>
+  <title>Y.HARUUCHI ポートフォリオ</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Material+Icons+Outlined" rel="stylesheet">
@@ -48,8 +48,8 @@
           <p class="main-visual-title">Y.HARUUCHI</p>
           <p class="main-visual-subtitle">PORTFOLIO</p>
           <p class="main-visual-text">
-            ユーザーとお客様が心から満足できる<br class="sp-only">サイトをお作りいたします。<br>
-            デザインとコーディングは<br class="sp-only">おまかせください。<br>
+            webアプリをつくる<br class="sp-only"><br>
+            <br class="sp-only"><br>
           </p>
         </div>
       </div>
