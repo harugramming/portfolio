@@ -4,11 +4,11 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
   <meta property='og:type' content='website'>
-  <meta property='og:title' content='Webエンジニア YUSUKE HARUUCHI　のポートフォリオ'>
+  <meta property='og:title' content='Webエンジニア Y.HARUUCHI　のポートフォリオ'>
   <meta property='og:url' content='URLが入る'>
-  <meta property='og:description' content='YUSUKE HARUUCHIのポートフォリオサイトです。'>
+  <meta property='og:description' content='Y.HARUUCHIのポートフォリオサイトです。'>
   <meta property="og:image" content="img/ogp.png">
-  <meta name="description" content="YUSUKE HARUUCHIのポートフォリオサイトです" />
+  <meta name="description" content="Y.HARUUCHIのポートフォリオサイトです" />
   <title>YUSUKE HARUUCHI ポートフォリオ</title>
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
@@ -26,7 +26,7 @@
     <header class="header ">
       <div class="inner">
         <h1 class="header-logo">
-          <a href=".">TARO YAMADA</a>
+          <a href=".">Y.HARUUCHI</a>
         </h1>
         <nav class="header-nav">
           <ul class="header-nav-list">
@@ -45,7 +45,7 @@
       <!-- main-visual -->
       <div class="main-visual">
         <div class="main-visual-inner">
-          <p class="main-visual-title">TARO YAMADA</p>
+          <p class="main-visual-title">Y.HARUUCHI</p>
           <p class="main-visual-subtitle">PORTFOLIO</p>
           <p class="main-visual-text">
             ユーザーとお客様が心から満足できる<br class="sp-only">サイトをお作りいたします。<br>
