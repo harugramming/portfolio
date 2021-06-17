@@ -96,51 +96,27 @@
           <h2 class="title">SKILL</h2>
           <div class="skill-list">
             <div class="skill-item">
-              <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+              <p class="skill-img"><img src="img/html_original_wordmark_logo_icon_146478.svg" alt=""></p>
               <div class="skill-body">
                 <h3 class="skill-name">HTML5/CSS3</h3>
                 <p class="skill-text">
-                  テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+                  実務6か月</p>
               </div>
             </div>
             <div class="skill-item">
-              <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+              <p class="skill-img"><img src="img/javascript_plain_logo_icon_146454.svg" alt=""></p>
               <div class="skill-body">
-                <h3 class="skill-name">WordPress</h3>
+                <h3 class="skill-name">JavaScript / jquery</h3>
                 <p class="skill-text">
-                  テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+                実務6か月</p>
               </div>
             </div>
             <div class="skill-item">
-              <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
+              <p class="skill-img"><img src="img/php_icon_130857.svg" alt=""></p>
               <div class="skill-body">
-                <h3 class="skill-name">JavaScript</h3>
+                <h3 class="skill-name">PHP</h3>
                 <p class="skill-text">
-                  テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
-              </div>
-            </div>
-            <div class="skill-item">
-              <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
-              <div class="skill-body">
-                <h3 class="skill-name">Photoshop</h3>
-                <p class="skill-text">
-                  テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
-              </div>
-            </div>
-            <div class="skill-item">
-              <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
-              <div class="skill-body">
-                <h3 class="skill-name">Illustrator</h3>
-                <p class="skill-text">
-                  テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
-              </div>
-            </div>
-            <div class="skill-item">
-              <p class="skill-img"><img src="img/icon_skill.png" alt=""></p>
-              <div class="skill-body">
-                <h3 class="skill-name">XD</h3>
-                <p class="skill-text">
-                  テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。</p>
+                  自己学習</p>
               </div>
             </div>
           </div>
