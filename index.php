@@ -1,21 +1,8 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
-  <meta property='og:type' content='website'>
-  <meta property='og:title' content='Webエンジニア Y.HARUUCHI　のポートフォリオ'>
-  <meta property='og:url' content='URLが入る'>
-  <meta property='og:description' content='Y.HARUUCHIのポートフォリオサイトです。'>
-  <meta property="og:image" content="img/ogp.png">
-  <meta name="description" content="Y.HARUUCHIのポートフォリオサイトです" />
-  <title>Y.HARUUCHI ポートフォリオ</title>
-  <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Material+Icons+Outlined" rel="stylesheet">
-  <link href="css/ress.css" media="all" rel="stylesheet" type="text/css" />
-  <link href="css/style.css" media="all" rel="stylesheet" type="text/css" />
-  <link rel="shortcut icon" href="img/favicon.ico" />
+<?php
+  require_once("php/beans/_head.php");
+?>
   <link rel=”canonical” href=”URLが入る” />
 </head>
 
@@ -23,21 +10,9 @@
   <div class="wrapper">
 
     <!-- header -->
-    <header class="header ">
-      <div class="inner">
-        <h1 class="header-logo">
-          <a href=".">Y.HARUUCHI</a>
-        </h1>
-        <nav class="header-nav">
-          <ul class="header-nav-list">
-            <li class="header-nav-item"><a href="#works">WORKS</a></li>
-            <li class="header-nav-item"><a href="#skill">SKILL</a></li>
-            <li class="header-nav-item"><a href="#about">ABOUT</a></li>
-            <li class="header-nav-item"><a href="#contact">CONTACT</a></li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+    <?php
+      require_once("php/beans/_header.php");
+    ?>
     <!-- /header -->
 
     <main class="content">
@@ -61,9 +36,9 @@
           <h2 class="title">WORKS</h2>
           <div class="works-list">
             <a class="works-item" href="works-template.html">
-              <p class="works-img"><img src="img/works-sample-thumb.jpg" alt="" /></p>
-              <p class="works-name">作品名が入る</p>
-              <p class="works-info">Design / Coding(Responsive)</p>
+              <p class="works-img"><img src="img/ビデオ通話.png" alt="ビデオ通話アプリの画像" /></p>
+              <p class="works-name">ビデオ通話アプリ</p>
+              <p class="works-info">HTML / CSS / JavaScript / WebRTC / Skyway</p>
             </a>
             <a class="works-item" href="works-template.html">
               <p class="works-img"><img src="img/works-dummy-thumb.jpg" alt="" /></p>
@@ -170,9 +145,9 @@
     </main>
 
     <!-- footer -->
-    <footer class="footer">
-      <div class="copyright">&copy;TARO YAMADA</div>
-    </footer>
+    <?php
+      require_once("php/beans/_footer.php");
+      ?>
     <!-- /footer -->
 
   </div>
