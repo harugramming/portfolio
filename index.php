@@ -35,7 +35,7 @@
         <div class="inner">
           <h2 class="title">WORKS</h2>
           <div class="works-list">
-            <a class="works-item" href="works-template.html">
+            <a class="works-item" href="videotelephone.php">
               <p class="works-img"><img src="img/ビデオ通話.png" alt="ビデオ通話アプリの画像" /></p>
               <p class="works-name">ビデオ通話アプリ</p>
               <p class="works-info">HTML / CSS / JavaScript / WebRTC / Skyway</p>

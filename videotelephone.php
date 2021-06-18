@@ -19,30 +19,23 @@
 
       <article class="article">
         <div class="article-inner">
-          <h2 class="article-title">DesignXYZ様</h2>
+          <h2 class="article-title">ビデオ通話アプリ</h2>
           <p class="article-img">
-            <img src="img/works-sample.jpg" alt="">
+            <img src="img/ビデオ通話.png" alt="ビデオ通話アプリの画像です">
           </p>
           <div class="article-body">
             <p>
-              テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります（作品について一言）
+              1対1でのビデオ通話を実現できるwebアプリケーションです。
             </p>
             <h3 class="article-info-title">URL</h3>
-            <p><a href="https://yahoo.co.jp" target="_blank" rel="noopener">https://yahoo.co.jp</a></p>
-            <h3 class="article-info-title">担当</h3>
-            <p>デザイン・コーディング</p>
-            <h3 class="article-info-title">サイトの目的</h3>
-            <p>サービスの認知と新規クライアントの獲得</p>
-            <h3 class="article-info-title">ターゲット</h3>
-            <p>テキストが入りますテキストが入ります</p>
-            <h3 class="article-info-title">デザインについて</h3>
-            <p>
-              テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。<br>テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。
+            <p><a href="https://videotelephoneharuuchi.herokuapp.com/" target="_blank" rel="noopener">https://videotelephoneharuuchi.herokuapp.com/</a></p>
+            <h3 class="article-info-title">背景</h3>
+            <p>HTML5認定試験の学習中に、WebRTCの存在を知り興味を持った。<br>
             </p>
-            <h3 class="article-info-title">コーディングについて</h3>
-            <p>
-              テキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入りますテキストが入ります。
-            </p>
+            <h3 class="article-info-title">技術要素</h3>
+            <p>HTML / CSS / JavaScript(jquery) / WebRTC / Skyway</p>
+            <h3 class="article-info-title">作成期間</h3>
+            <p>一週間ほど</p>
           </div>
           <div class="home-link">
             <a href="./#works">Works一覧へ</a>
