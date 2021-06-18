@@ -38,12 +38,12 @@
             <a class="works-item" href="videotelephone.php">
               <p class="works-img"><img src="img/ビデオ通話.png" alt="ビデオ通話アプリの画像" /></p>
               <p class="works-name">ビデオ通話アプリ</p>
-              <p class="works-info">HTML / CSS / JavaScript / WebRTC / Skyway</p>
+              <p class="works-info">HTML / CSS / JavaScript (jquery) / WebRTC / Skyway</p>
             </a>
-            <a class="works-item" href="works-template.html">
-              <p class="works-img"><img src="img/works-dummy-thumb.jpg" alt="" /></p>
-              <p class="works-name">作品名が入る</p>
-              <p class="works-info">Design / Coding(Responsive) / WordPress</p>
+            <a class="works-item" href="rtatimer.php">
+              <p class="works-img"><img src="img/RTAタイマー.png" alt="RTAタイマーの画像" /></p>
+              <p class="works-name">RTAタイマー</p>
+              <p class="works-info">HTML / CSS / JavaScript (jquery) / ajax / PHP / MySQL</p>
             </a>
             <a class="works-item" href="works-template.html">
               <p class="works-img"><img src="img/works-dummy-thumb.jpg" alt="" /></p>
